@@ -1,2 +1,2 @@
 # General
-used for software documents and a software wike
+software wiki. click on the above wiki link
