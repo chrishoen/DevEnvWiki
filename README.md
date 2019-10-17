@@ -1,13 +1,9 @@
 # DevEnvWiki
-software development environment wiki. click on the above wiki link.
+software development environment wiki. 
 this explains how to set up my windows development environment.
 
-https://github.com/chrishoen/DevEnvWiki/wiki
 
-I didn't like the way that the wiki turned out. I'm switching over to a shared OneNote document.
-
-https://1drv.ms/o/s!AreNf7CMtp2CiDnVFT-Y8Nu4tsO7
-
+Here's a link to a OneNote document that provides a description of and installation instruction for my software development environment.
 https://1drv.ms/o/s!AreNf7CMtp2CiDnVFT-Y8Nu4tsO7
 
 
